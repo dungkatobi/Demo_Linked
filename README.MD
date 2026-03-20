@@ -1,6 +1,6 @@
 # LinkedIn Easy Apply Automation (Playwright)
 
-## 📌 Overview
+## Overview
 
 This project automates the LinkedIn "Easy Apply" job application flow using Playwright with a scalable Page Object Model (POM) architecture.
 
@@ -14,7 +14,7 @@ It validates:
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 ```
 /pages
@@ -34,7 +34,7 @@ playwright.config.ts
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone Repository
 
@@ -63,7 +63,7 @@ npm install -D allure-playwright
 
 ---
 
-## 🔐 Environment Setup
+## Environment Setup
 
 Create a `.env` file:
 
@@ -76,7 +76,7 @@ USER_PASSWORD=your_password
 
 ---
 
-## ▶️ Run Tests
+## Run Tests
 
 ### Run all tests
 
@@ -98,7 +98,7 @@ npx playwright test --headed
 
 ---
 
-## 📱 Cross-Browser & Mobile
+## Cross-Browser & Mobile
 
 Configured in `playwright.config.ts`:
 
@@ -108,7 +108,7 @@ Configured in `playwright.config.ts`:
 
 ---
 
-## 📊 Generate Allure Report
+## Generate Allure Report
 
 ```
 npx playwright test
@@ -118,7 +118,7 @@ npx allure open
 
 ---
 
-## 🔁 Retry & Stability
+## Retry & Stability
 
 * Retries enabled: `2`
 * Soft assertions used to reduce test flakiness
@@ -126,13 +126,13 @@ npx allure open
 
 ---
 
-## 👥 Multi-User Testing
+## Multi-User Testing
 
 Supports multiple users via test data array.
 
 ---
 
-## 🧠 Best Practices Used
+## Best Practices Used
 
 * Page Object Model (POM)
 * Custom Fixtures
