@@ -1,0 +1,288 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - heading "0 notifications" [level=2] [ref=e3]
+  - generic [ref=e4]:
+    - generic:
+      - button [ref=e5] [cursor=pointer]:
+        - generic [ref=e7]: Skip to main content
+      - button [ref=e8] [cursor=pointer]:
+        - img [ref=e10]
+    - generic [ref=e12]:
+      - banner [ref=e14]:
+        - generic [ref=e17]:
+          - button "LinkedIn" [ref=e18] [cursor=pointer]:
+            - img "LinkedIn" [ref=e19]
+          - generic [ref=e25]:
+            - search [ref=e27]:
+              - generic [ref=e28]:
+                - img [ref=e30]
+                - textbox "Title, skill or Company" [ref=e32]
+            - search [ref=e33]:
+              - generic [ref=e34]:
+                - img [ref=e36]
+                - textbox "City, state, or zip code" [ref=e38]
+          - generic [ref=e40]:
+            - figure [ref=e45]
+            - navigation [ref=e48]:
+              - list [ref=e49]:
+                - listitem [ref=e50]:
+                  - button "Home, 1 new notification" [ref=e51] [cursor=pointer]:
+                    - img [ref=e53]
+                    - generic [ref=e57]: Home
+                - listitem [ref=e58]:
+                  - link "My Network, 0 new notifications" [ref=e59] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - img [ref=e61]
+                    - generic [ref=e64]: My Network
+                - listitem [ref=e65]:
+                  - button "Jobs, 0 new notifications" [ref=e66] [cursor=pointer]:
+                    - img [ref=e68]
+                    - generic [ref=e71]: Jobs
+                - listitem [ref=e72]:
+                  - link "Messaging, 0 new notifications" [ref=e73] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - img [ref=e75]
+                    - generic [ref=e78]: Messaging
+                - listitem [ref=e79]:
+                  - link "Notifications, 0 new notifications" [ref=e80] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - img [ref=e82]
+                    - generic [ref=e85]: Notifications
+                - listitem [ref=e86]:
+                  - button "Me" [ref=e87] [cursor=pointer]:
+                    - figure [ref=e89]:
+                      - img [ref=e90]
+                    - generic [ref=e97]:
+                      - text: Me
+                      - img [ref=e98]
+            - generic [ref=e101]:
+              - navigation [ref=e102]:
+                - list [ref=e103]:
+                  - listitem [ref=e104]:
+                    - button "For Business" [ref=e105] [cursor=pointer]:
+                      - img [ref=e107]
+                      - generic [ref=e110]:
+                        - text: For Business
+                        - img [ref=e111]
+              - link "Try Premium for ₫0" [ref=e114] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/
+                - generic [ref=e115]:
+                  - img [ref=e116]
+                  - button "Try Premium for ₫0" [ref=e120]:
+                    - paragraph [ref=e122]: Try Premium for ₫0
+      - main [ref=e123]:
+        - main [ref=e125]:
+          - generic [ref=e127]:
+            - generic [ref=e131]:
+              - generic [ref=e135]:
+                - generic [ref=e136]:
+                  - figure [ref=e138]:
+                    - img [ref=e139]
+                  - link "Add profile picture" [ref=e145] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=e146]:
+                      - figure [ref=e147]:
+                        - img [ref=e148]
+                      - button "Add profile picture" [ref=e155]:
+                        - img [ref=e157]
+                - generic [ref=e159]:
+                  - link "Dung Tran Quality Assurance Tester tại TSO Ho Chi Minh City, Ho Chi Minh City" [ref=e160] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/dung-tran-750a323b8/
+                    - generic [ref=e161]:
+                      - paragraph [ref=e164]: Dung Tran
+                      - paragraph [ref=e166]: Quality Assurance Tester tại TSO
+                      - paragraph [ref=e167]: Ho Chi Minh City, Ho Chi Minh City
+                  - link "TSO" [ref=e168] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/dung-tran-750a323b8/
+                    - generic [ref=e169]:
+                      - figure [ref=e170]:
+                        - img [ref=e171]
+                      - paragraph [ref=e177]: TSO
+              - generic [ref=e178]:
+                - navigation [ref=e179]:
+                  - list [ref=e180]:
+                    - listitem [ref=e181]:
+                      - link "Preferences" [ref=e182] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/jobs/preferences/?viewType=SEEKING_PREFERENCES
+                        - img [ref=e184]
+                        - generic [ref=e187]: Preferences
+                    - listitem [ref=e188]:
+                      - link "Job tracker" [ref=e189] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/jobs-tracker/
+                        - img [ref=e191]
+                        - generic [ref=e194]: Job tracker
+                    - listitem [ref=e195]:
+                      - link "My Career Insights" [ref=e196] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/explore-career-insights/?job_title=1255&location=116375059
+                        - img [ref=e198]
+                        - generic [ref=e202]: My Career Insights
+                - navigation [ref=e203]:
+                  - list [ref=e204]:
+                    - listitem [ref=e205]:
+                      - link "Post a free job" [ref=e206] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/talent/job-posting-redirect/?trk=flagship3_job_home
+                        - img [ref=e208]
+                        - generic [ref=e211]: Post a free job
+              - generic [ref=e212]:
+                - generic [ref=e213]:
+                  - link "About" [ref=e214] [cursor=pointer]:
+                    - /url: https://about.linkedin.com/
+                    - paragraph [ref=e215]: About
+                  - link "Accessibility" [ref=e216] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/accessibility/
+                    - paragraph [ref=e217]: Accessibility
+                  - link "Help Center" [ref=e218] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/
+                    - paragraph [ref=e219]: Help Center
+                  - button "Privacy & Terms" [ref=e220] [cursor=pointer]:
+                    - generic [ref=e221]:
+                      - paragraph [ref=e222]: Privacy & Terms
+                      - img [ref=e223]
+                  - link "Ad Choices" [ref=e225] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                    - paragraph [ref=e226]: Ad Choices
+                  - link "Advertising" [ref=e227] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                    - paragraph [ref=e228]: Advertising
+                  - button "Business Services" [ref=e229] [cursor=pointer]:
+                    - generic [ref=e230]:
+                      - paragraph [ref=e231]: Business Services
+                      - img [ref=e232]
+                  - link "Get the LinkedIn app" [ref=e234] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mobile/
+                    - paragraph [ref=e235]: Get the LinkedIn app
+                  - link "More" [ref=e236] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - paragraph [ref=e237]: More
+                - generic [ref=e238]:
+                  - img [ref=e239]
+                  - paragraph [ref=e241]: LinkedIn Corporation © 2026
+            - generic [ref=e243]:
+              - generic [ref=e246]:
+                - generic [ref=e248]:
+                  - heading "Recent job searches" [level=2] [ref=e250]
+                  - link "Clear" [ref=e252] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=e254]: Clear
+                - generic [ref=e255]:
+                  - link "QA Engineer Vietnam" [ref=e256] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/search/?keywords=QA+Engineer&origin=JOBS_HOME_KEYWORD_HISTORY&distance=25.0&geoId=104195383
+                    - generic [ref=e257]:
+                      - img [ref=e258]
+                      - generic [ref=e261]:
+                        - paragraph [ref=e262]: QA Engineer
+                        - paragraph [ref=e263]: Vietnam
+                  - link "QA Engineer Vietnam • Apply on LinkedIn" [ref=e264] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/search/?keywords=QA+Engineer&origin=JOBS_HOME_KEYWORD_HISTORY&f_AL=true&distance=25.0&geoId=104195383
+                    - generic [ref=e265]:
+                      - img [ref=e266]
+                      - generic [ref=e269]:
+                        - paragraph [ref=e270]: QA Engineer
+                        - paragraph [ref=e271]: Vietnam • Apply on LinkedIn
+              - generic [ref=e274]:
+                - img [ref=e275]
+                - paragraph [ref=e281]: Search for jobs
+                - paragraph [ref=e282]: Start a search and we’ll share opportunities that meet your search criteria.
+                - link "Search now" [ref=e283] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/search/?origin=JOBS_HOME_JYMBII
+                  - generic [ref=e285]: Search now
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary:
+            - generic [ref=e287]:
+              - generic [ref=e289] [cursor=pointer]:
+                - generic [ref=e290]:
+                  - img "Dung Tran" [ref=e291]
+                  - generic [ref=e293]: Trạng thái là đang trực tuyến
+                - button "Bạn đang ở trên lớp phủ tin nhắn. Hãy nhấn enter để mở danh sách các cuộc trò chuyện." [ref=e294]:
+                  - generic [ref=e295]:
+                    - generic [ref=e296]: Nhắn tin
+                    - generic [ref=e297]: Bạn đang ở trên lớp phủ tin nhắn. Hãy nhấn enter để mở danh sách các cuộc trò chuyện.
+              - generic [ref=e298]:
+                - button "Mở menu thả xuống của messenger" [ref=e300] [cursor=pointer]:
+                  - img "Mở menu thả xuống của messenger" [ref=e301]
+                - button "Soạn tin nhắn" [ref=e304] [cursor=pointer]:
+                  - img [ref=e305]
+                  - generic [ref=e307]: Soạn tin nhắn
+                - button "Bạn đang ở trên lớp phủ tin nhắn. Hãy nhấn enter để mở danh sách các cuộc trò chuyện." [ref=e308] [cursor=pointer]:
+                  - img [ref=e309]
+                  - generic [ref=e311]: Bạn đang ở trên lớp phủ tin nhắn. Hãy nhấn enter để mở danh sách các cuộc trò chuyện.
+          - complementary "Trợ lý được hỗ trợ bởi AI để nhận trợ giúp về sự nghiệp, công việc của bạn, v.v"
+  - iframe [ref=e312]:
+    - generic [active] [ref=f14e1]:
+      - generic:
+        - region "Thông điệp bánh mì nướng":
+          - heading "Tổng cộng 0 thông báo" [level=2] [ref=f14e3]
+          - alert
+      - region [ref=f14e4]
+      - generic [ref=f14e5]:
+        - generic [ref=f14e7]:
+          - button "Bỏ qua để tìm kiếm" [ref=f14e8] [cursor=pointer]:
+            - generic [ref=f14e9]: Bỏ qua để tìm kiếm
+          - button "Chuyển đến nội dung chính" [ref=f14e10] [cursor=pointer]:
+            - generic [ref=f14e11]: Chuyển đến nội dung chính
+          - button "Phím tắt bàn phím" [ref=f14e12] [cursor=pointer]:
+            - generic [ref=f14e13]: Phím tắt bàn phím
+          - button "Đóng menu chuyển đến" [ref=f14e14] [cursor=pointer]:
+            - img [ref=f14e15]
+            - generic [ref=f14e17]: Đóng menu chuyển đến
+        - banner "Điều hướng toàn cầu" [ref=f14e18]:
+          - generic [ref=f14e19]:
+            - link "LinkedIn" [ref=f14e20] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/?nis=true
+              - img "LinkedIn" [ref=f14e23]:
+                - img [ref=f14e24]
+            - generic [ref=f14e28]:
+              - combobox "Tìm kiếm" [ref=f14e29]
+              - generic:
+                - img
+            - navigation "Điều hướng chính" [ref=f14e30]:
+              - list [ref=f14e31]:
+                - listitem [ref=f14e32]:
+                  - link "cập nhật bảng tin thông báo mới Trang chủ" [ref=f14e33] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=f14e34]:
+                      - generic [ref=f14e37]: cập nhật bảng tin thông báo mới
+                      - img [ref=f14e41]
+                    - generic "Trang chủ" [ref=f14e43]
+                - listitem [ref=f14e44]:
+                  - link "Mạng lưới" [ref=f14e45] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                    - img [ref=f14e49]
+                    - generic "Mạng lưới" [ref=f14e51]
+                - listitem [ref=f14e52]:
+                  - link "Việc làm" [ref=f14e53] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                    - img [ref=f14e57]
+                    - generic "Việc làm" [ref=f14e59]
+                - listitem [ref=f14e60]:
+                  - link "Nhắn tin" [ref=f14e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                    - img [ref=f14e65]
+                    - generic "Nhắn tin" [ref=f14e67]
+                - listitem [ref=f14e68]:
+                  - link "Thông báo" [ref=f14e69] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                    - img [ref=f14e73]
+                    - generic "Thông báo" [ref=f14e75]
+                - listitem [ref=f14e76]:
+                  - button "Dung Tran Tôi" [ref=f14e78] [cursor=pointer]:
+                    - img "Dung Tran" [ref=f14e79]
+                    - generic [ref=f14e80]:
+                      - text: Tôi
+                      - img [ref=f14e81]
+                - listitem [ref=f14e83]:
+                  - button "Dành cho doanh nghiệp" [ref=f14e85] [cursor=pointer]:
+                    - img [ref=f14e89]
+                    - generic "Dành cho doanh nghiệp" [ref=f14e91]:
+                      - text: Dành cho doanh nghiệp
+                      - img [ref=f14e92]
+                - listitem [ref=f14e94]:
+                  - link "Dùng thử gói Cao cấp cho 0 ₫" [ref=f14e96] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                    - generic [ref=f14e98]: Dùng thử gói Cao cấp cho 0 ₫
+```

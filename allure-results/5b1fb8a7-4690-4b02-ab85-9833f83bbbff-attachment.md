@@ -1,0 +1,1250 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - heading "0 notifications" [level=2] [ref=e3]
+  - generic [ref=e4]:
+    - generic:
+      - button [ref=e5] [cursor=pointer]:
+        - generic [ref=e7]: Skip to main content
+      - button [ref=e8] [cursor=pointer]:
+        - img [ref=e10]
+    - generic [ref=e12]:
+      - banner [ref=e14]:
+        - generic [ref=e17]:
+          - button "LinkedIn" [ref=e18] [cursor=pointer]:
+            - img "LinkedIn" [ref=e19]
+          - search [ref=e22]:
+            - generic [ref=e23]:
+              - img [ref=e25]
+              - textbox "Search" [active] [ref=e27]:
+                - listbox [ref=e28]:
+                  - group [ref=e32]:
+                    - paragraph [ref=e33]: Thử tìm kiếm
+                    - generic [ref=e34]:
+                      - option "Đề xuất truy vấn interview tips" [ref=e35]:
+                        - link "Đề xuất truy vấn interview tips" [ref=e36] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=interview+tips&origin=QUERY_SUGGESTION&position=0
+                          - generic "Đề xuất truy vấn interview tips" [ref=e37]:
+                            - generic [ref=e38]:
+                              - img [ref=e39]
+                              - paragraph [ref=e43]: interview tips
+                      - option "Đề xuất truy vấn latest in ai" [ref=e44]:
+                        - link "Đề xuất truy vấn latest in ai" [ref=e45] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=latest+in+ai&origin=QUERY_SUGGESTION&position=0
+                          - generic "Đề xuất truy vấn latest in ai" [ref=e46]:
+                            - generic [ref=e47]:
+                              - img [ref=e48]
+                              - paragraph [ref=e52]: latest in ai
+                      - option "Đề xuất truy vấn balancing work and personal life" [ref=e53]:
+                        - link "Đề xuất truy vấn balancing work and personal life" [ref=e54] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=balancing+work+and+personal+life&origin=QUERY_SUGGESTION&position=0
+                          - generic "Đề xuất truy vấn balancing work and personal life" [ref=e55]:
+                            - generic [ref=e56]:
+                              - img [ref=e57]
+                              - paragraph [ref=e61]: balancing work and personal life
+                      - option "Đề xuất truy vấn remote work" [ref=e62]:
+                        - link "Đề xuất truy vấn remote work" [ref=e63] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=remote+work&origin=QUERY_SUGGESTION&position=0
+                          - generic "Đề xuất truy vấn remote work" [ref=e64]:
+                            - generic [ref=e65]:
+                              - img [ref=e66]
+                              - paragraph [ref=e70]: remote work
+                      - option "Đề xuất truy vấn when's the best time to switch jobs" [ref=e71]:
+                        - link "Đề xuất truy vấn when's the best time to switch jobs" [ref=e72] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/search/results/all/?keywords=when%27s+the+best+time+to+switch+jobs&origin=QUERY_SUGGESTION&position=0
+                          - generic "Đề xuất truy vấn when's the best time to switch jobs" [ref=e73]:
+                            - generic [ref=e74]:
+                              - img [ref=e75]
+                              - paragraph [ref=e79]: when's the best time to switch jobs
+          - generic [ref=e81]:
+            - figure [ref=e86]
+            - navigation [ref=e89]:
+              - list [ref=e90]:
+                - listitem [ref=e91]:
+                  - button "Home, 1 new notification" [ref=e92] [cursor=pointer]:
+                    - img [ref=e94]
+                    - generic [ref=e96]: Home
+                - listitem [ref=e97]:
+                  - link "My Network, 0 new notifications" [ref=e98] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - img [ref=e100]
+                    - generic [ref=e102]: My Network
+                - listitem [ref=e103]:
+                  - button "Jobs, 0 new notifications" [ref=e104] [cursor=pointer]:
+                    - img [ref=e106]
+                    - generic [ref=e108]: Jobs
+                - listitem [ref=e109]:
+                  - link "Messaging, 0 new notifications" [ref=e110] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - img [ref=e112]
+                    - generic [ref=e114]: Messaging
+                - listitem [ref=e115]:
+                  - link "Notifications, 0 new notifications" [ref=e116] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - img [ref=e118]
+                    - generic [ref=e120]: Notifications
+                - listitem [ref=e121]:
+                  - button "Me" [ref=e122] [cursor=pointer]:
+                    - figure [ref=e124]:
+                      - img [ref=e125]
+                    - generic [ref=e131]:
+                      - text: Me
+                      - img [ref=e132]
+            - generic [ref=e135]:
+              - navigation [ref=e136]:
+                - list [ref=e137]:
+                  - listitem [ref=e138]:
+                    - button "For Business" [ref=e139] [cursor=pointer]:
+                      - img [ref=e141]
+                      - generic [ref=e143]:
+                        - text: For Business
+                        - img [ref=e144]
+              - link "Try Premium for ₫0" [ref=e147] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/
+                - generic [ref=e148]:
+                  - img [ref=e149]
+                  - button "Try Premium for ₫0" [ref=e153]:
+                    - paragraph [ref=e155]: Try Premium for ₫0
+      - main [ref=e156]:
+        - main [ref=e158]:
+          - generic [ref=e160]:
+            - generic [ref=e164]:
+              - generic [ref=e168]:
+                - generic [ref=e169]:
+                  - figure [ref=e171]:
+                    - img [ref=e172]
+                  - link "Add profile picture" [ref=e178] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=e179]:
+                      - figure [ref=e180]:
+                        - img [ref=e181]
+                      - button "Add profile picture" [ref=e188]:
+                        - img [ref=e190]
+                - generic [ref=e192]:
+                  - link "Dung Tran Quality Assurance Tester tại TSO Ho Chi Minh City, Ho Chi Minh City" [ref=e193] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/dung-tran-750a323b8/
+                    - generic [ref=e194]:
+                      - paragraph [ref=e197]: Dung Tran
+                      - paragraph [ref=e199]: Quality Assurance Tester tại TSO
+                      - paragraph [ref=e200]: Ho Chi Minh City, Ho Chi Minh City
+                  - link "TSO" [ref=e201] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/dung-tran-750a323b8/
+                    - generic [ref=e202]:
+                      - figure [ref=e203]:
+                        - img [ref=e204]
+                      - paragraph [ref=e210]: TSO
+              - link "Achieve your career goals Try Premium for ₫0" [ref=e215] [cursor=pointer]:
+                - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_homepage_identity_upsell%3ANav%3AIn-Product&referenceId=GVq2gpx4QZ20ejfqV22cMA%3D%3D&isSS=true
+                - generic [ref=e216]:
+                  - paragraph [ref=e217]: Achieve your career goals
+                  - generic [ref=e219]:
+                    - img [ref=e220]
+                    - button "Try Premium for ₫0" [ref=e223]:
+                      - paragraph [ref=e224]: Try Premium for ₫0
+              - menu [ref=e227]:
+                - link "View all analytics 0" [ref=e229] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/analytics/creator/content/
+                  - generic "View all analytics 0" [ref=e230]:
+                    - paragraph [ref=e232]: View all analytics
+                - link "Connections 0 Grow your network" [ref=e234] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mynetwork/
+                  - generic "Connections 0 Grow your network" [ref=e235]:
+                    - generic [ref=e236]:
+                      - paragraph [ref=e237]: Connections
+                      - paragraph [ref=e238]: Grow your network
+                    - paragraph [ref=e239]: "0"
+              - menu [ref=e242]:
+                - link "Saved items" [ref=e243] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/my-items/saved-posts/
+                  - generic [ref=e244]:
+                    - img [ref=e245]
+                    - paragraph [ref=e247]: Saved items
+                - link "Groups" [ref=e248] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/groups/
+                  - generic [ref=e249]:
+                    - img [ref=e250]
+                    - paragraph [ref=e256]: Groups
+                - link "Newsletters" [ref=e257] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/mynetwork/network-manager/newsletters/
+                  - generic [ref=e258]:
+                    - img [ref=e259]
+                    - paragraph [ref=e261]: Newsletters
+                - link "Events" [ref=e262] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/events/
+                  - generic [ref=e263]:
+                    - img [ref=e264]
+                    - paragraph [ref=e266]: Events
+            - list [ref=e268]:
+              - generic [ref=e271]:
+                - generic [ref=e272]:
+                  - generic [ref=e273]:
+                    - paragraph [ref=e274]: Welcome to LinkedIn
+                    - button "Dismiss" [ref=e275] [cursor=pointer]:
+                      - img [ref=e277]
+                  - generic [ref=e279]:
+                    - progressbar "0 percent complete" [ref=e281]
+                    - paragraph [ref=e282]: 0/3 complete
+                - generic [ref=e285]:
+                  - generic [ref=e286]:
+                    - list [ref=e288]:
+                      - listitem [ref=e289]:
+                        - generic [ref=e292]:
+                          - figure [ref=e293]
+                          - generic [ref=e294]:
+                            - paragraph [ref=e295]: Add your work experience and skills to get discovered by recruiters.
+                            - link "Update profile" [ref=e296] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/feed/?legoTrackingToken=3gZpnFFkTBxr71PqmgCc2UMfmlOrSdjtOoZsC5gr6litOoZp6Zdr6litOoVejAVejRApnhPpnlNpl9JtmUCjAZ9l4BjjR0Zuk9OpmhOjThBpShFtOpBr6BCrT9MnSlQomhMtlYOtChxs6xzrDlxr3RAinhBpShFtOoMfmVLqnhFsSZgt6lDp6BT9z0Kc3RBsCZzkT9D9zROol1Ipl9OpOoZp6Zdr6lisCsCc3RKrSBQqndLk71RrT9D9zgZp6lQsSlRsmlirnles7lLsCsCsSVLqnhzojRAin1RrT9D9AVfilh9kQZgfnB2sClAsCYCt6NRompBp3RAinhKpmRDpncCsClHpmlPoCZGpnpFsTdxs3RAinhLr7cCt6NRompBp3RAinhRrTBxr2oOtChxs6xzrDlxr3RBrm5epmtxs2pEt7tLsCsZp4BMs64CcjwOcz8Pfmh9rCZFsT9BtyoMc3ATcPkMcjsNfmh9tioRdP0Up6pCp34Sc30Jdm4ToyQUe6gQbjoOem8JojsUdPsUdPoZp4BQu6lQrCZz&showCareersModal=updateProfile&modalContext=PASSIVE_JOB_SEEKER
+                              - generic [ref=e298]: Update profile
+                      - listitem [ref=e299]:
+                        - generic [ref=e302]:
+                          - figure [ref=e303]
+                          - generic [ref=e304]:
+                            - paragraph [ref=e305]: Follow companies you’re interested in to get noticed for opportunities.
+                            - link "Start following" [ref=e306] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/mynetwork/discover-hub/?useCase=LAUNCHPAD_FOLLOW_COMPANY_RECOMMENDATION
+                              - generic [ref=e308]: Start following
+                      - listitem [ref=e309]:
+                        - generic [ref=e312]:
+                          - figure [ref=e313]
+                          - generic [ref=e314]:
+                            - paragraph [ref=e315]: Connect with people you know to expand your network and opportunities.
+                            - link "Add connections" [ref=e316] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/feed/?legoTrackingToken=d3RBuCBjum5Is7dFp2oMbz0Zpn9LoRdT9zROol1Ipl9T9zRArQRIpl9T9zAVejAVfmhBt7dBtn5BkCRRrypejQBkildfk3RVgD9Bp79ft6lDp6BT9DdKrSBQoSlKrCZznShAolYOtChxs6xzrDlxr3RAinhBpShFtOoOfmVLqnhFsSZgt6lDp6BT9z0Kc3RBsCZzkT9D9zROol1Ipl9OpOoZp6Zdr6lisCsCc3RKrSBQqndLk71RrT9D9zgZp6lQsSlRsmlirnles7lLsCsCsSVLqnhzojRAin1RrT9D9AVfilh9kQZgfnB2sClAsCYCt6NRompBp3RAinhKpmRDpncCsClHpmlPoCZGpnpFsTdxs3RAinhLr7cCt6NRompBp3RAinhRrTBxr2oOtChxs6xzrDlxr3RBrm5epmtxs2pEt7tLsCsZp4BMs64CcjwOcz8Pfmh9rCZFsT9BtyoMc3ATcPkMcjsNfmh9tioRdP0Up6pCp34Sc30Jdm4ToyQUe6gQbjoOem8JojsUdPsUdPoZp4BQu6lQrCZz&showCareersModal=addConnections&modalContext=PASSIVE_JOB_SEEKER
+                              - generic [ref=e318]: Add connections
+                    - button "Next" [ref=e319] [cursor=pointer]:
+                      - img [ref=e321]
+                  - list [ref=e324]:
+                    - listitem [ref=e325]:
+                      - button "Page 1" [ref=e326] [cursor=pointer]
+                    - listitem [ref=e327]:
+                      - button "Page 2" [ref=e328] [cursor=pointer]
+                    - listitem [ref=e329]:
+                      - button "Page 3" [ref=e330] [cursor=pointer]
+              - generic [ref=e332]:
+                - generic [ref=e333]:
+                  - link [ref=e334] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/dung-tran-750a323b8/
+                    - figure [ref=e335]:
+                      - img [ref=e336]
+                  - button "Start a post" [ref=e343] [cursor=pointer]:
+                    - generic "Start a post" [ref=e344]:
+                      - generic [ref=e346]:
+                        - paragraph [ref=e347]: Start a post
+                        - generic:
+                          - paragraph
+                - generic [ref=e348]:
+                  - button "Video" [ref=e349] [cursor=pointer]:
+                    - generic [ref=e350]:
+                      - img [ref=e351]
+                      - paragraph [ref=e353]: Video
+                  - button "Photo" [ref=e354] [cursor=pointer]:
+                    - generic [ref=e355]:
+                      - img [ref=e356]
+                      - paragraph [ref=e358]: Photo
+                  - link "Write article" [ref=e359] [cursor=pointer]:
+                    - /url: /article/new/
+                    - generic [ref=e360]:
+                      - img [ref=e361]
+                      - paragraph [ref=e363]: Write article
+              - 'button "Sort by: Top" [ref=e365] [cursor=pointer]':
+                - generic [ref=e366]:
+                  - paragraph [ref=e367]:
+                    - text: "Sort by:"
+                    - strong [ref=e368]: Top
+                  - img [ref=e369]
+              - listitem [ref=e374]:
+                - generic [ref=e376]:
+                  - heading "Feed post" [level=2]:
+                    - generic [ref=e377]: Feed post
+                  - generic [ref=e378]:
+                    - paragraph [ref=e381]: Suggested
+                    - button "Open control menu for post by Nguyễn Phương Anh" [ref=e382] [cursor=pointer]:
+                      - img [ref=e384]
+                    - button "Hide post by Nguyễn Phương Anh" [ref=e386] [cursor=pointer]:
+                      - img [ref=e388]
+                  - generic [ref=e390]:
+                    - link [ref=e391] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/nguy%E1%BB%85n-ph%C6%B0%C6%A1ng-anh-020451380/
+                      - figure [ref=e392]:
+                        - img "View Nguyễn Phương Anh’s profile" [ref=e393]
+                    - 'link "Nguyễn Phương Anh 3rd+ Aspiring Marketing Executive | Digital Marketing Specialist | Eager to learn, grow, and contribute effectively to team success 16h • Visibility: Global" [ref=e394] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/nguy%E1%BB%85n-ph%C6%B0%C6%A1ng-anh-020451380/
+                      - generic [ref=e395]:
+                        - generic "Nguyễn Phương Anh 3rd+" [ref=e396]:
+                          - paragraph [ref=e399]: Nguyễn Phương Anh
+                          - paragraph [ref=e401]: • 3rd+
+                        - paragraph [ref=e403]: Aspiring Marketing Executive | Digital Marketing Specialist | Eager to learn, grow, and contribute effectively to team success
+                        - paragraph [ref=e405]:
+                          - text: 16h •
+                          - 'img "Visibility: Global" [ref=e406]'
+                    - button "Follow Nguyễn Phương Anh" [ref=e411] [cursor=pointer]:
+                      - generic [ref=e412]:
+                        - img [ref=e413]
+                        - generic [ref=e416]: Follow
+                  - paragraph [ref=e417]:
+                    - generic [ref=e418]:
+                      - text: With many opinions and assessments about some obstacles for my dream career, these also lead to anxiety about my future. However, I believe that my own decisions shape my future. Therefore, there are more considerations, and I strive to take well-prepared steps toward my goals!
+                      - text: "Although this is a small starting step in Coursera's series of courses, it completely changes my ways of observing surrounding issues. Notably, there are the most meaningful lessons that I learned from this course:"
+                      - text: "- SMART process: A good question has to meet the two requirements of SPECIFIC and MEASURABLE. In the marketing field, it is not just about increasing sales, but about by what percentage and over what period?"
+                      - text: "- The strength of SQL: I learned a communication way with data through some commands, SELECT, FROM, and WHERE. To have a comprehensive understanding of extracting useful information, I can look for answers by myself instead of waiting for a report from the technical department."
+                      - text: "- Technical mindset: It helps me to have the ability to divide the problem into logical steps to reduce the overwhelming feelings in front of big data."
+                      - text: So, although data is just meaningless numbers, if we know how to put it in context, it can tell us amazing stories about our customers.
+                      - text: The road ahead is still long, but a good start is a huge motivator!
+                      - link "#StructuredThinking" [ref=e419] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23structuredthinking&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e421]: "#StructuredThinking"
+                      - link "#ProblemSolving" [ref=e422] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23problemsolving&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e424]: "#ProblemSolving"
+                      - link "#DataAnalytics" [ref=e425] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23dataanalytics&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e427]: "#DataAnalytics"
+                      - link "#GoogleCertificate" [ref=e428] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23googlecertificate&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e430]: "#GoogleCertificate"
+                      - link "#CareerPath" [ref=e431] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23careerpath&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e433]: "#CareerPath"
+                      - button:
+                        - generic [ref=e435] [cursor=pointer]: … more
+                  - link [ref=e437] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - figure [ref=e438]:
+                      - img "View image" [ref=e439]
+                  - generic [ref=e440]:
+                    - link "2 reactions" [ref=e441] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e442]:
+                        - img [ref=e443]
+                        - paragraph [ref=e450]:
+                          - generic [ref=e451]: 2 reactions
+                          - text: "2"
+                    - button "1 comment" [ref=e453] [cursor=pointer]:
+                      - paragraph [ref=e454]:
+                        - generic [ref=e455]: 1 comment
+                        - generic [ref=e456]: 1 comment
+                  - generic [ref=e457]:
+                    - generic [ref=e459]:
+                      - 'button "Reaction button state: no reaction" [ref=e462] [cursor=pointer]':
+                        - generic [ref=e463]:
+                          - img [ref=e464]
+                          - generic [ref=e466]: Like
+                      - button "Open reactions menu":
+                        - img [ref=e468] [cursor=pointer]
+                    - button "Comment" [ref=e470] [cursor=pointer]:
+                      - generic [ref=e471]:
+                        - img [ref=e472]
+                        - generic [ref=e475]: Comment
+                    - button "Repost" [ref=e476] [cursor=pointer]:
+                      - generic [ref=e477]:
+                        - img [ref=e478]
+                        - generic [ref=e481]: Repost
+                    - link "Send" [ref=e482] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e483]:
+                        - img [ref=e484]
+                        - generic [ref=e487]: Send
+              - listitem [ref=e491]:
+                - generic [ref=e493]:
+                  - heading "Feed post" [level=2]:
+                    - generic [ref=e494]: Feed post
+                  - generic [ref=e495]:
+                    - paragraph [ref=e499]: Recommended for you
+                    - link "Quality Management System Study Expert Training & Documents for QMS, Lean, and Six Sigma Success People skilled in Quality Assurance also follow these pages Follow Quality Management System Study" [ref=e500] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/quality-management-system-study/
+                      - listitem [ref=e501]:
+                        - generic [ref=e502]:
+                          - figure [ref=e503]:
+                            - img "View company" [ref=e504]
+                          - generic [ref=e505]:
+                            - paragraph [ref=e508]: Quality Management System Study
+                            - paragraph [ref=e510]: Expert Training & Documents for QMS, Lean, and Six Sigma Success
+                            - generic [ref=e511]:
+                              - img [ref=e512]
+                              - paragraph [ref=e515]: People skilled in Quality Assurance also follow these pages
+                        - button "Follow Quality Management System Study" [ref=e517]:
+                          - generic [ref=e518]:
+                            - img [ref=e519]
+                            - generic [ref=e522]: Follow
+                    - link "Quality Assurance Engineering Education & Training People skilled in Quality Assurance also follow these pages Follow Quality Assurance Engineering" [ref=e523] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/quality-assurance-engineering/
+                      - listitem [ref=e524]:
+                        - generic [ref=e525]:
+                          - figure [ref=e526]:
+                            - img "View company" [ref=e527]
+                          - generic [ref=e528]:
+                            - paragraph [ref=e531]: Quality Assurance Engineering
+                            - paragraph [ref=e533]: Education & Training
+                            - generic [ref=e534]:
+                              - img [ref=e535]
+                              - paragraph [ref=e538]: People skilled in Quality Assurance also follow these pages
+                        - button "Follow Quality Assurance Engineering" [ref=e540]:
+                          - generic [ref=e541]:
+                            - img [ref=e542]
+                            - generic [ref=e545]: Follow
+                    - link "Quality Control & Quality Assurance Follow to Get Updates Regarding QA/QC Related Documents People skilled in Quality Assurance also follow these pages Follow Quality Control & Quality Assurance" [ref=e546] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/qa-qc-documents/
+                      - listitem [ref=e547]:
+                        - generic [ref=e548]:
+                          - figure [ref=e549]:
+                            - img "View company" [ref=e550]
+                          - generic [ref=e551]:
+                            - paragraph [ref=e554]: Quality Control & Quality Assurance
+                            - paragraph [ref=e556]: Follow to Get Updates Regarding QA/QC Related Documents
+                            - generic [ref=e557]:
+                              - img [ref=e558]
+                              - paragraph [ref=e561]: People skilled in Quality Assurance also follow these pages
+                        - button "Follow Quality Control & Quality Assurance" [ref=e563]:
+                          - generic [ref=e564]:
+                            - img [ref=e565]
+                            - generic [ref=e568]: Follow
+                    - link "Show more" [ref=e569] [cursor=pointer]:
+                      - /url: /mynetwork/discover-hub/
+                      - generic [ref=e570]:
+                        - img [ref=e571]
+                        - generic [ref=e573]: Show more
+              - listitem [ref=e577]:
+                - generic [ref=e579]:
+                  - heading "Feed post" [level=2]:
+                    - generic [ref=e580]: Feed post
+                  - generic [ref=e581]:
+                    - paragraph [ref=e584]: Suggested
+                    - button "Open control menu for post by Anh Nguyen" [ref=e585] [cursor=pointer]:
+                      - img [ref=e587]
+                    - button "Hide post by Anh Nguyen" [ref=e589] [cursor=pointer]:
+                      - img [ref=e591]
+                  - generic [ref=e593]:
+                    - link [ref=e594] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/anh-nguyen-b4b400387/
+                      - figure [ref=e595]:
+                        - img "View Anh Nguyen’s profile" [ref=e596]
+                    - 'link "Anh Nguyen 3rd+ -- 16h • Visibility: Global" [ref=e597] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/anh-nguyen-b4b400387/
+                      - generic [ref=e598]:
+                        - generic "Anh Nguyen 3rd+" [ref=e599]:
+                          - paragraph [ref=e602]: Anh Nguyen
+                          - paragraph [ref=e604]: • 3rd+
+                        - paragraph [ref=e606]: "--"
+                        - paragraph [ref=e608]:
+                          - text: 16h •
+                          - 'img "Visibility: Global" [ref=e609]'
+                    - button "Follow Anh Nguyen" [ref=e614] [cursor=pointer]:
+                      - generic [ref=e615]:
+                        - img [ref=e616]
+                        - generic [ref=e619]: Follow
+                  - paragraph [ref=e620]:
+                    - generic [ref=e621]:
+                      - text: I had the opportunity to attend an Industry Talk in IB-T126WSB-3, which was a valuable and inspiring experience for me. I would like to express my sincere appreciation to the guest speaker, Mr. Việt Anh,for sharing practical insights into the logistics and international shipping industry. His real-world experiences helped me better understand how global supply chains operate beyond theoretical knowledge.
+                      - text: One of the key insights I gained is the critical role of freight forwarders as intermediaries who coordinate the entire shipping process. International transportation is much more complex than I previously thought, involving multiple stages such as selecting appropriate transport modes, preparing essential documents like bills of lading and invoices, and managing customs clearance. This session gave me a clearer and more realistic view of how goods move across borders.
+                      - text: A particularly meaningful lesson I learned is the importance of flexibility and adaptability, especially in unexpected situations such as war or global disruptions. In such contexts, logistics companies must quickly adjust routes, switch transportation methods, and find alternative solutions to maintain supply chain continuity. This made me realize that problem-solving and quick decision-making are essential skills in this industry.
+                      - text: In addition, the Q&A session further deepened my understanding of how companies handle crises in real-life scenarios. Learning about how businesses respond to disruptions by proactively planning, communicating with stakeholders, and optimizing logistics solutions gave me a more practical perspective on crisis management.
+                      - text: From a personal perspective, this talk has changed the way I view logistics, from a purely operational function to a strategic one. It has also sparked my interest and passion for the field, motivating me to explore more about supply chain management in the future.
+                      - text: This experience left a strong impression on me, as I had the opportunity to learn from a professional in the logistics sector.
+                      - link "#WSU" [ref=e622] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23wsu&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e624]: "#WSU"
+                      - link "#WesternSydneyVietnam" [ref=e625] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23westernsydneyvietnam&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e627]: "#WesternSydneyVietnam"
+                      - link "#WSUVN" [ref=e628] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23wsuvn&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e630]: "#WSUVN"
+                      - link "#InternationalBusiness" [ref=e631] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23internationalbusiness&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e633]: "#InternationalBusiness"
+                      - button:
+                        - generic [ref=e635] [cursor=pointer]: … more
+                  - generic [ref=e636]:
+                    - generic [ref=e638]:
+                      - 'button "Reaction button state: no reaction" [ref=e641] [cursor=pointer]':
+                        - generic [ref=e642]:
+                          - img [ref=e643]
+                          - generic [ref=e645]: Like
+                      - button "Open reactions menu":
+                        - img [ref=e647] [cursor=pointer]
+                    - button "Comment" [ref=e649] [cursor=pointer]:
+                      - generic [ref=e650]:
+                        - img [ref=e651]
+                        - generic [ref=e654]: Comment
+                    - button "Repost" [ref=e655] [cursor=pointer]:
+                      - generic [ref=e656]:
+                        - img [ref=e657]
+                        - generic [ref=e660]: Repost
+                    - link "Send" [ref=e661] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e662]:
+                        - img [ref=e663]
+                        - generic [ref=e666]: Send
+              - listitem [ref=e670]:
+                - generic [ref=e672]:
+                  - heading "Feed post" [level=2]:
+                    - generic [ref=e673]: Feed post
+                  - generic [ref=e674]:
+                    - paragraph [ref=e677]: Suggested
+                    - button "Open control menu for post by Tina Ye" [ref=e678] [cursor=pointer]:
+                      - img [ref=e680]
+                    - button "Hide post by Tina Ye" [ref=e682] [cursor=pointer]:
+                      - img [ref=e684]
+                  - generic [ref=e686]:
+                    - link [ref=e687] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/tina-ye-0479432b9/
+                      - figure [ref=e688]:
+                        - img "View Tina Ye’s profile" [ref=e689]
+                    - 'link "Tina Ye Premium Profile 3rd+ Vision Inspection Engineer at ANHUI KEYE INTELLIGENT TECHNOLOGY CO.,LTD.WhatsApp:+8619355222672WeChat:Tinaye668 View my services 3d • Visibility: Global" [ref=e690] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/tina-ye-0479432b9/
+                      - generic [ref=e691]:
+                        - generic "Tina Ye Premium Profile 3rd+" [ref=e692]:
+                          - paragraph [ref=e695]: Tina Ye
+                          - paragraph [ref=e697]:
+                            - img [ref=e699]
+                            - text: • 3rd+
+                        - paragraph [ref=e702]: Vision Inspection Engineer at ANHUI KEYE INTELLIGENT TECHNOLOGY CO.,LTD.WhatsApp:+8619355222672WeChat:Tinaye668
+                        - link "View my services" [ref=e704]:
+                          - /url: https://www.linkedin.com/services/page/5958093298751477a6/
+                          - paragraph [ref=e705]: View my services
+                        - paragraph [ref=e707]:
+                          - text: 3d •
+                          - 'img "Visibility: Global" [ref=e708]'
+                    - button "Follow Tina Ye" [ref=e713] [cursor=pointer]:
+                      - generic [ref=e714]:
+                        - img [ref=e715]
+                        - generic [ref=e718]: Follow
+                  - paragraph [ref=e719]:
+                    - generic [ref=e720]:
+                      - text: 𝗣𝗿𝗲𝘀𝗲𝗿𝘃𝗶𝗻𝗴 𝗙𝗿𝗲𝘀𝗵𝗻𝗲𝘀𝘀, 𝗢𝗻𝗲 𝗖𝗮𝗽 𝗮𝘁 𝗮 𝗧𝗶𝗺𝗲.
+                      - text: For edible oil producers, the enemy is oxygen. A compromised cap seal means oxidation, rancidity, and a ruined product.
+                      - text: Our
+                      - link "#Offline" [ref=e721] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23offline&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e723]: "#Offline"
+                      - link "#Oil" [ref=e724] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23oil&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e726]: "#Oil"
+                      - link "#Cap" [ref=e727] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23cap&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e729]: "#Cap"
+                      - link "#Inspection" [ref=e730] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23inspection&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e732]: "#Inspection"
+                      - link "#System" [ref=e733] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23system&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e735]: "#System"
+                      - text: is designed to guarantee the integrity of every seal before it meets your bottle.
+                      - text: "Key Offline Checks:"
+                      - text: "🔬 Liner Inspection: Detect missing or misaligned oxygen barrier liners."
+                      - text: "🌀 Thread Inspection: Verify helix angles for consistent capping torque."
+                      - text: "🏷️ Tamper Evidence: Ensure the breakable bands are properly formed."
+                      - text: Protect the freshness of your oil from the warehouse to the pantry. Partner with precision.
+                      - link "#FoodSafety" [ref=e736] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23foodsafety&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e738]: "#FoodSafety"
+                      - link "#EdibleOil" [ref=e739] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23edibleoil&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e741]: "#EdibleOil"
+                      - link "#PackagingTechnology" [ref=e742] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23packagingtechnology&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e744]: "#PackagingTechnology"
+                      - link "#Sustainability" [ref=e745] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23sustainability&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e747]: "#Sustainability"
+                      - link "#QualityControl" [ref=e748] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23qualitycontrol&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e750]: "#QualityControl"
+                      - link "#Plasticrigidpackaging" [ref=e751] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23plasticrigidpackaging&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e753]: "#Plasticrigidpackaging"
+                      - link "#Visioninspection" [ref=e754] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23visioninspection&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e756]: "#Visioninspection"
+                      - link "#Visualdetection" [ref=e757] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23visualdetection&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e759]: "#Visualdetection"
+                      - button:
+                        - generic [ref=e761] [cursor=pointer]: … more
+                  - generic [ref=e762]:
+                    - region "Video Player" [ref=e764]:
+                      - application [ref=e766]
+                      - text:             
+                    - button "Play video" [ref=e769] [cursor=pointer]:
+                      - img [ref=e771]
+                  - link "8 reactions" [ref=e774] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=e775]:
+                      - img [ref=e776]
+                      - paragraph [ref=e783]:
+                        - generic [ref=e784]: 8 reactions
+                        - text: "8"
+                  - generic [ref=e785]:
+                    - generic [ref=e787]:
+                      - 'button "Reaction button state: no reaction" [ref=e790] [cursor=pointer]':
+                        - generic [ref=e791]:
+                          - img [ref=e792]
+                          - generic [ref=e794]: Like
+                      - button "Open reactions menu":
+                        - img [ref=e796] [cursor=pointer]
+                    - button "Comment" [ref=e798] [cursor=pointer]:
+                      - generic [ref=e799]:
+                        - img [ref=e800]
+                        - generic [ref=e803]: Comment
+                    - button "Repost" [ref=e804] [cursor=pointer]:
+                      - generic [ref=e805]:
+                        - img [ref=e806]
+                        - generic [ref=e809]: Repost
+                    - link "Send" [ref=e810] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e811]:
+                        - img [ref=e812]
+                        - generic [ref=e815]: Send
+              - listitem [ref=e819]:
+                - generic [ref=e821]:
+                  - heading "Feed post" [level=2]:
+                    - generic [ref=e822]: Feed post
+                  - generic [ref=e823]:
+                    - paragraph [ref=e826]: Suggested
+                    - button "Open control menu for post by Vu Ngoc Cong" [ref=e827] [cursor=pointer]:
+                      - img [ref=e829]
+                    - button "Hide post by Vu Ngoc Cong" [ref=e831] [cursor=pointer]:
+                      - img [ref=e833]
+                  - generic [ref=e835]:
+                    - link [ref=e836] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/vu-ngoc-cong-1445a0128/
+                      - figure [ref=e837]:
+                        - img "View Vu Ngoc Cong’s profile" [ref=e838]
+                    - 'link "Vu Ngoc Cong 3rd+ Textile Engineering 2d • Visibility: Global" [ref=e839] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/vu-ngoc-cong-1445a0128/
+                      - generic [ref=e840]:
+                        - generic "Vu Ngoc Cong 3rd+" [ref=e841]:
+                          - paragraph [ref=e844]: Vu Ngoc Cong
+                          - paragraph [ref=e846]: • 3rd+
+                        - paragraph [ref=e848]: Textile Engineering
+                        - paragraph [ref=e850]:
+                          - text: 2d •
+                          - 'img "Visibility: Global" [ref=e851]'
+                    - button "Follow Vu Ngoc Cong" [ref=e856] [cursor=pointer]:
+                      - generic [ref=e857]:
+                        - img [ref=e858]
+                        - generic [ref=e861]: Follow
+                  - paragraph [ref=e862]:
+                    - generic [ref=e863]:
+                      - text: What is a process ?
+                      - text: "To optimize any workflow, let try answer these 7 key questions:"
+                      - text: "1. Inputs: What resources, data, or policies are required?"
+                      - text: "2. Transformation: What is being altered or processed?"
+                      - text: "3. Outputs: What is the final deliverable or result?"
+                      - text: "4. Measurement: How are you tracking performance?"
+                      - text: "5. Failure Points: Where are the most critical risks or bottlenecks?"
+                      - text: "6. Decisions: What key choices must be made, and by whom?"
+                      - text: "7. Stakeholders: Who are the suppliers and the end customers?"
+                      - text: Mastering these elements is the first step toward operational excellence.
+                      - link "#ProcessImprovement" [ref=e865] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23processimprovement&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e867]: "#ProcessImprovement"
+                      - link "#Operations" [ref=e868] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23operations&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e870]: "#Operations"
+                      - link "#BusinessEfficiency" [ref=e871] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23businessefficiency&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e873]: "#BusinessEfficiency"
+                      - link "#Workflow" [ref=e874] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23workflow&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e876]: "#Workflow"
+                      - link "#Management" [ref=e877] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23management&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e879]: "#Management"
+                      - button:
+                        - generic [ref=e881] [cursor=pointer]: … more
+                  - link [ref=e883] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - figure [ref=e884]:
+                      - img "View image" [ref=e885]
+                  - link "1 reaction" [ref=e887] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=e888]:
+                      - img [ref=e889]
+                      - paragraph [ref=e896]:
+                        - generic [ref=e897]: 1 reaction
+                        - text: "1"
+                  - generic [ref=e898]:
+                    - generic [ref=e900]:
+                      - 'button "Reaction button state: no reaction" [ref=e903] [cursor=pointer]':
+                        - generic [ref=e904]:
+                          - img [ref=e905]
+                          - generic [ref=e907]: Like
+                      - button "Open reactions menu":
+                        - img [ref=e909] [cursor=pointer]
+                    - button "Comment" [ref=e911] [cursor=pointer]:
+                      - generic [ref=e912]:
+                        - img [ref=e913]
+                        - generic [ref=e916]: Comment
+                    - button "Repost" [ref=e917] [cursor=pointer]:
+                      - generic [ref=e918]:
+                        - img [ref=e919]
+                        - generic [ref=e922]: Repost
+                    - link "Send" [ref=e923] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e924]:
+                        - img [ref=e925]
+                        - generic [ref=e928]: Send
+              - listitem [ref=e932]:
+                - generic [ref=e934]:
+                  - heading "Feed post" [level=2]:
+                    - generic [ref=e935]: Feed post
+                  - generic [ref=e936]:
+                    - paragraph [ref=e939]: Suggested
+                    - button "Open control menu for post by Linh, Nguyen Hoang Duy" [ref=e940] [cursor=pointer]:
+                      - img [ref=e942]
+                    - button "Hide post by Linh, Nguyen Hoang Duy" [ref=e944] [cursor=pointer]:
+                      - img [ref=e946]
+                  - generic [ref=e948]:
+                    - link [ref=e949] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/linhnhd/
+                      - figure [ref=e950]:
+                        - img "View Linh, Nguyen Hoang Duy’s profile" [ref=e951]
+                    - 'link "Linh, Nguyen Hoang Duy 3rd+ Computers and Information Technology | Information Security 1h • Edited • Visibility: Global" [ref=e952] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/in/linhnhd/
+                      - generic [ref=e953]:
+                        - generic "Linh, Nguyen Hoang Duy 3rd+" [ref=e954]:
+                          - paragraph [ref=e957]: Linh, Nguyen Hoang Duy
+                          - paragraph [ref=e959]: • 3rd+
+                        - paragraph [ref=e961]: Computers and Information Technology | Information Security
+                        - paragraph [ref=e963]:
+                          - text: 1h • Edited •
+                          - 'img "Visibility: Global" [ref=e964]'
+                    - button "Follow Linh, Nguyen Hoang Duy" [ref=e969] [cursor=pointer]:
+                      - generic [ref=e970]:
+                        - img [ref=e971]
+                        - generic [ref=e974]: Follow
+                  - paragraph [ref=e975]:
+                    - generic [ref=e976]:
+                      - text: "🚀 Project Update: Turning Vision into Reality with Next-Gen IT Infrastructure! 🏗️🌐"
+                      - text: "--"
+                      - text: There is nothing quite like the feeling of watching technical blueprints come to life. Our team is currently on-site, deep into the implementation phase of a comprehensive IT ecosystem for our client’s new office space.
+                      - text: "We aren't just installing hardware, we are building a seamless \"nervous system\" for a modern business. Here is what's happening on the ground:"
+                      - text: "🔹 High-Velocity Connectivity: We are deploying a robust backbone featuring WiFi 7 access points and 2.5G PoE switching to ensure the workspace is ready for the data demands of tomorrow."
+                      - text: "🔹 AI-Powered Security: Installation is underway for our AI-driven facial recognition access control system, providing a touchless and highly secure entry experience for all employees."
+                      - text: "🔹 Immersive Collaboration: We’ve begun mounting 85-inch interactive displays and high-definition Video Bars to transform standard meeting rooms into world-class hybrid collaboration hubs."
+                      - text: "🔹 Precision Engineering: As seen in the latest site captures, our technicians are meticulously managing the backbone cabling, conduits, and rack integration. Every cable is labeled and every connection is tested to ensure maximum uptime and easy maintenance."
+                      - text: "The transformation from an empty shell to a \"Smart Office\" is moving fast. Next up: Final technical acceptance and user training sessions! 📈"
+                      - text: "--"
+                      - text: A huge shoutout to the team for their hard work and attention to detail during this critical phase.
+                      - link "TechForgeX Digital for Humanity" [ref=e978] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/techforgex/
+                        - strong [ref=e980]: TechForgeX Digital for Humanity
+                      - link "TechforgeX Kelvin" [ref=e981] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/techforgex-kelvin-a35877350/
+                        - strong [ref=e983]: TechforgeX Kelvin
+                      - link "#ITInfrastructure" [ref=e984] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23itinfrastructure&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e986]: "#ITInfrastructure"
+                      - link "#DigitalTransformation" [ref=e987] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23digitaltransformation&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e989]: "#DigitalTransformation"
+                      - link "#SmartOffice" [ref=e990] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23smartoffice&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e992]: "#SmartOffice"
+                      - link "#WiFi7" [ref=e993] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23wifi7&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e995]: "#WiFi7"
+                      - link "#SystemsIntegration" [ref=e996] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23systemsintegration&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e998]: "#SystemsIntegration"
+                      - link "#TechImplementation" [ref=e999] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23techimplementation&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1001]: "#TechImplementation"
+                      - link "#WorkInPrgoress" [ref=e1002] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23workinprgoress&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1004]: "#WorkInPrgoress"
+                      - link "#ModernWorkspace" [ref=e1005] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23modernworkspace&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1007]: "#ModernWorkspace"
+                      - link "#Networking" [ref=e1008] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23networking&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1010]: "#Networking"
+                      - link "#CyberSecurity" [ref=e1011] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23cybersecurity&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1013]: "#CyberSecurity"
+                      - link "#AVSolutions" [ref=e1014] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23avsolutions&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1016]: "#AVSolutions"
+                      - button:
+                        - generic [ref=e1018] [cursor=pointer]: … more
+                  - generic [ref=e1021]:
+                    - link [ref=e1022] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - figure [ref=e1023]:
+                        - img "View image" [ref=e1024]
+                    - generic [ref=e1025]:
+                      - link [ref=e1027] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+                        - figure [ref=e1028]:
+                          - img "View image" [ref=e1029]
+                      - link [ref=e1031] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/
+                        - figure [ref=e1032]:
+                          - img "View image" [ref=e1033]
+                      - generic [ref=e1034]:
+                        - link [ref=e1035] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/feed/
+                          - figure [ref=e1036]:
+                            - img "View image" [ref=e1037]
+                        - link "3 more images" [ref=e1038] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/feed/
+                          - generic "3 more images" [ref=e1039]:
+                            - paragraph [ref=e1040]: "+3"
+                  - generic [ref=e1041]:
+                    - link "5 reactions" [ref=e1042] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e1043]:
+                        - img [ref=e1044]
+                        - img [ref=e1050]
+                        - img [ref=e1064]
+                        - paragraph [ref=e1071]:
+                          - generic [ref=e1072]: 5 reactions
+                          - text: "5"
+                    - button "1 comment" [ref=e1074] [cursor=pointer]:
+                      - paragraph [ref=e1075]:
+                        - generic [ref=e1076]: 1 comment
+                        - generic [ref=e1077]: 1 comment
+                  - generic [ref=e1078]:
+                    - generic [ref=e1080]:
+                      - 'button "Reaction button state: no reaction" [ref=e1083] [cursor=pointer]':
+                        - generic [ref=e1084]:
+                          - img [ref=e1085]
+                          - generic [ref=e1087]: Like
+                      - button "Open reactions menu":
+                        - img [ref=e1089] [cursor=pointer]
+                    - button "Comment" [ref=e1091] [cursor=pointer]:
+                      - generic [ref=e1092]:
+                        - img [ref=e1093]
+                        - generic [ref=e1096]: Comment
+                    - button "Repost" [ref=e1097] [cursor=pointer]:
+                      - generic [ref=e1098]:
+                        - img [ref=e1099]
+                        - generic [ref=e1102]: Repost
+                    - link "Send" [ref=e1103] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e1104]:
+                        - img [ref=e1105]
+                        - generic [ref=e1108]: Send
+              - listitem [ref=e1112]:
+                - generic [ref=e1114]:
+                  - heading "Feed post" [level=2]:
+                    - generic [ref=e1115]: Feed post
+                  - generic [ref=e1116]:
+                    - paragraph [ref=e1119]: Suggested
+                    - button "Open control menu for post by HEALTHCARE TALENT VIETNAM" [ref=e1120] [cursor=pointer]:
+                      - img [ref=e1122]
+                    - button "Hide post by HEALTHCARE TALENT VIETNAM" [ref=e1124] [cursor=pointer]:
+                      - img [ref=e1126]
+                  - generic [ref=e1128]:
+                    - link [ref=e1129] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/healthcare-talent-vietnam/posts/
+                      - figure [ref=e1130]:
+                        - 'img "View company: HEALTHCARE TALENT VIETNAM" [ref=e1131]'
+                    - 'link "HEALTHCARE TALENT VIETNAM 8h • Visibility: Global" [ref=e1132] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/company/healthcare-talent-vietnam/posts/
+                      - generic [ref=e1133]:
+                        - paragraph [ref=e1137]: HEALTHCARE TALENT VIETNAM
+                        - paragraph [ref=e1139]:
+                          - text: 8h •
+                          - 'img "Visibility: Global" [ref=e1140]'
+                    - button "Follow HEALTHCARE TALENT VIETNAM" [ref=e1145] [cursor=pointer]:
+                      - generic [ref=e1146]:
+                        - img [ref=e1147]
+                        - generic [ref=e1150]: Follow
+                  - paragraph [ref=e1151]:
+                    - generic [ref=e1152]:
+                      - text: 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡𝐞𝐬 𝐭𝐨 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐓𝐫𝐮𝐬𝐭 𝐚𝐧𝐝 𝐓𝐞𝐚𝐦 𝐂𝐨𝐡𝐞𝐬𝐢𝐨𝐧
+                      - text: In today’s volatile business environment, trust is no longer just a cultural value — it’s a performance driver
+                      - text: "Organizations with high-trust teams consistently show:"
+                      - text: • stronger collaboration
+                      - text: • faster decision-making
+                      - text: • greater resilience in uncertainty
+                      - text: Yet trust rarely happens by accident. It must be intentionally designed through leadership behaviors, transparency, and psychological safety.
+                      - text: Interestingly, many leaders misunderstand what psychological safety actually means.
+                      - text: It’s not about avoiding conflict or being overly polite.
+                      - text: High-performing teams prioritize candor over comfort — where ideas can be challenged without fear of retaliation.
+                      - text: At the same time, emerging trends such as AI adoption and hybrid work are introducing new challenges to trust and team cohesion.
+                      - text: So how can leaders intentionally build trust within modern organizations?
+                      - text: The article explores several practical strategies — from operational transparency and values-based leadership to addressing workplace isolation in the AI era.
+                      - text: A timely perspective for leaders navigating increasingly complex organizational dynamics.
+                      - text: 👉 Full article below.
+                      - link "https://lnkd.in/gvvd9AyZ" [ref=e1153] [cursor=pointer]:
+                        - /url: https://lnkd.in/gvvd9AyZ
+                        - strong [ref=e1155]: https://lnkd.in/gvvd9AyZ
+                      - text: "---------------------------"
+                      - text: 𝐇𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 𝐓𝐚𝐥𝐞𝐧𝐭
+                      - text: A member of
+                      - link "HEALTHCARE ALLIANCE VIETNAM" [ref=e1156] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/healthcare-alliance-vn/
+                        - strong [ref=e1158]: HEALTHCARE ALLIANCE VIETNAM
+                      - text: "☎️ Hotline: Ms. Tuyen - 0904 257 935"
+                      - text: "📩 Email:"
+                      - link "consulting@healthcaretalent.vn" [ref=e1159] [cursor=pointer]:
+                        - /url: mailto:consulting@healthcaretalent.vn
+                        - strong [ref=e1161]: consulting@healthcaretalent.vn
+                      - text: "🌐 Website:"
+                      - link "https://lnkd.in/epG326C7" [ref=e1162] [cursor=pointer]:
+                        - /url: https://lnkd.in/epG326C7
+                        - strong [ref=e1164]: https://lnkd.in/epG326C7
+                      - text: "🤝 Connect with us:"
+                      - text: "👍 Facebook:"
+                      - link "https://lnkd.in/euHt7ju8" [ref=e1165] [cursor=pointer]:
+                        - /url: https://lnkd.in/euHt7ju8
+                        - strong [ref=e1167]: https://lnkd.in/euHt7ju8
+                      - text: "👥 LinkedIn:"
+                      - link "https://lnkd.in/e2HHg-RB" [ref=e1168] [cursor=pointer]:
+                        - /url: https://lnkd.in/e2HHg-RB
+                        - strong [ref=e1170]: https://lnkd.in/e2HHg-RB
+                      - link "#Leadership" [ref=e1171] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23leadership&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1173]: "#Leadership"
+                      - link "#TrustInLeadership" [ref=e1174] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23trustinleadership&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1176]: "#TrustInLeadership"
+                      - link "#TeamCohesion" [ref=e1177] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23teamcohesion&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1179]: "#TeamCohesion"
+                      - link "#FutureOfWork" [ref=e1180] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23futureofwork&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1182]: "#FutureOfWork"
+                      - link "#HealthcareLeadership" [ref=e1183] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23healthcareleadership&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1185]: "#HealthcareLeadership"
+                      - link "#HealthcareTalent" [ref=e1186] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23healthcaretalent&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1188]: "#HealthcareTalent"
+                      - link "#LifeSciences" [ref=e1189] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23lifesciences&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1191]: "#LifeSciences"
+                      - link "#Management" [ref=e1192] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23management&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1194]: "#Management"
+                      - button:
+                        - generic [ref=e1196] [cursor=pointer]: … more
+                  - link [ref=e1198] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - figure [ref=e1199]:
+                      - img "View image" [ref=e1200]
+                  - generic [ref=e1201]:
+                    - generic [ref=e1203]:
+                      - 'button "Reaction button state: no reaction" [ref=e1206] [cursor=pointer]':
+                        - generic [ref=e1207]:
+                          - img [ref=e1208]
+                          - generic [ref=e1210]: Like
+                      - button "Open reactions menu":
+                        - img [ref=e1212] [cursor=pointer]
+                    - button "Comment" [ref=e1214] [cursor=pointer]:
+                      - generic [ref=e1215]:
+                        - img [ref=e1216]
+                        - generic [ref=e1219]: Comment
+                    - button "Repost" [ref=e1220] [cursor=pointer]:
+                      - generic [ref=e1221]:
+                        - img [ref=e1222]
+                        - generic [ref=e1225]: Repost
+                    - link "Send" [ref=e1226] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e1227]:
+                        - img [ref=e1228]
+                        - generic [ref=e1231]: Send
+              - listitem [ref=e1235]:
+                - generic [ref=e1237]:
+                  - heading "Feed post" [level=2]:
+                    - generic [ref=e1238]: Feed post
+                  - generic [ref=e1239]:
+                    - paragraph [ref=e1242]: Suggested
+                    - button "Open control menu for post by Vietsuccess" [ref=e1243] [cursor=pointer]:
+                      - img [ref=e1245]
+                    - button "Hide post by Vietsuccess" [ref=e1247] [cursor=pointer]:
+                      - img [ref=e1249]
+                  - generic [ref=e1251]:
+                    - link [ref=e1252] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/vietsuccess/posts/
+                      - figure [ref=e1253]:
+                        - 'img "View company: Vietsuccess" [ref=e1254]'
+                    - 'link "Vietsuccess 5d • Visibility: Global" [ref=e1255] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/company/vietsuccess/posts/
+                      - generic [ref=e1256]:
+                        - paragraph [ref=e1260]: Vietsuccess
+                        - paragraph [ref=e1262]:
+                          - text: 5d •
+                          - 'img "Visibility: Global" [ref=e1263]'
+                    - button "Follow Vietsuccess" [ref=e1268] [cursor=pointer]:
+                      - generic [ref=e1269]:
+                        - img [ref=e1270]
+                        - generic [ref=e1273]: Follow
+                  - paragraph [ref=e1276]:
+                    - generic [ref=e1277]:
+                      - text: "★ PHÁP LÝ DOANH NGHIỆP: \"BỘ GIÁP\" HAY \"BẢN ÁN\" TREO LƠ LỬNG?"
+                      - text: "Nhiều doanh nghiệp sụp đổ không phải vì thiếu khách hàng, mà vì những lỗi pháp lý \"nhỏ\" nhưng phải trả giá bằng toàn bộ tài sản. Bạn đã bao giờ tự hỏi:"
+                      - text: ⬩ Hợp đồng và điều lệ hiện tại có thực sự bảo vệ quyền lợi của bạn khi có tranh chấp?
+                      - text: ⬩ Hệ thống thuế, bảo hiểm, nhân sự đã được chuẩn hóa để sẵn sàng cho các vòng gọi vốn?
+                      - text: ⬩ Làm sao để sở hữu trí tuệ không bị xâm phạm khi thương hiệu bắt đầu có giá trị?
+                      - text: "★ Cùng Luật sư Đào Tiến Phong trong khóa học “PHÁP LÝ DÀNH CHO DOANH NGHIỆP MỚI” giải mã các rủi ro pháp lý \"tử huyệt\" và cách xây dựng bộ khung vận hành chuẩn mực. Đã đến lúc:"
+                      - text: "⬩ Làm đúng từ đầu: Chọn loại hình, đặt tên, đăng ký ngành nghề chuẩn xác."
+                      - text: "⬩ Vận hành an toàn: Làm chủ Thuế, Kế toán, Lao động và Hợp đồng kinh doanh."
+                      - text: "⬩ Bảo vệ tài sản: Đăng ký sở hữu trí tuệ và quản trị rủi ro khủng hoảng."
+                      - text: "➤ Đăng ký trải nghiệm trước một phần khóa học miễn phí ngay tại:"
+                      - link "https://lnkd.in/gJ58Ji7H" [ref=e1278] [cursor=pointer]:
+                        - /url: https://lnkd.in/gJ58Ji7H
+                        - strong [ref=e1280]: https://lnkd.in/gJ58Ji7H
+                      - text: Vietsuccess Learning hân hạnh có sự đồng hành của Đối tác Công nghệ
+                      - link "Orthian - Your Digital Partner" [ref=e1281] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/orthian/
+                        - strong [ref=e1283]: Orthian - Your Digital Partner
+                      - text: .
+                      - link "#VietsuccessLearning" [ref=e1284] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23vietsuccesslearning&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1286]: "#VietsuccessLearning"
+                      - link "#Vietsuccess" [ref=e1287] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23vietsuccess&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1289]: "#Vietsuccess"
+                      - link "#Learning" [ref=e1290] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23learning&origin=HASH_TAG_FROM_FEED
+                        - strong [ref=e1292]: "#Learning"
+                      - button:
+                        - generic [ref=e1294] [cursor=pointer]: … more
+                  - button "Show translation" [ref=e1296] [cursor=pointer]:
+                    - generic [ref=e1298]: Show translation
+                  - generic [ref=e1299]:
+                    - region "Video Player" [ref=e1301]:
+                      - application [ref=e1303]
+                      - text:              
+                    - button "Play video" [ref=e1306] [cursor=pointer]:
+                      - img [ref=e1308]
+                  - paragraph [ref=e1313]: PHÁP LÝ DÀNH CHO DOANH NGHIỆP MỚI
+                  - generic [ref=e1314]:
+                    - link "3 reactions" [ref=e1315] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e1316]:
+                        - img [ref=e1317]
+                        - img [ref=e1323]
+                        - paragraph [ref=e1332]:
+                          - generic [ref=e1333]: 3 reactions
+                          - text: "3"
+                    - button "1 comment" [ref=e1335] [cursor=pointer]:
+                      - paragraph [ref=e1336]:
+                        - generic [ref=e1337]: 1 comment
+                        - generic [ref=e1338]: 1 comment
+                  - generic [ref=e1339]:
+                    - generic [ref=e1341]:
+                      - 'button "Reaction button state: no reaction" [ref=e1344] [cursor=pointer]':
+                        - generic [ref=e1345]:
+                          - img [ref=e1346]
+                          - generic [ref=e1348]: Like
+                      - button "Open reactions menu":
+                        - img [ref=e1350] [cursor=pointer]
+                    - button "Comment" [ref=e1352] [cursor=pointer]:
+                      - generic [ref=e1353]:
+                        - img [ref=e1354]
+                        - generic [ref=e1357]: Comment
+                    - button "Repost" [ref=e1358] [cursor=pointer]:
+                      - generic [ref=e1359]:
+                        - img [ref=e1360]
+                        - generic [ref=e1363]: Repost
+                    - link "Send" [ref=e1364] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - generic [ref=e1365]:
+                        - img [ref=e1366]
+                        - generic [ref=e1369]: Send
+              - button "Load more" [ref=e1371] [cursor=pointer]:
+                - generic [ref=e1373]: Load more
+            - generic [ref=e1375]:
+              - generic [ref=e1378]:
+                - generic [ref=e1380]:
+                  - generic [ref=e1381]:
+                    - paragraph [ref=e1382]: LinkedIn News
+                    - button "Info tooltip" [ref=e1383] [cursor=pointer]:
+                      - img [ref=e1385]
+                  - paragraph [ref=e1387]: Top stories
+                  - generic [ref=e1388]:
+                    - link "Trump presses for 'de-escalation' as oil pushes $120 3h ago • 36,903 readers" [ref=e1390] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/trump-presses-for-de-escalation-as-oil-pushes-120-8545938/
+                      - generic [ref=e1392]:
+                        - paragraph [ref=e1394]: Trump presses for 'de-escalation' as oil pushes $120
+                        - generic [ref=e1395]:
+                          - paragraph [ref=e1396]: 3h ago
+                          - paragraph [ref=e1397]: •
+                          - paragraph [ref=e1398]: 36,903 readers
+                    - link "Jobless claims fall, but jobseekers are in a tough spot 5h ago • 9,336 readers" [ref=e1400] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/jobless-claims-fall-but-jobseekers-are-in-a-tough-spot-7083956/
+                      - generic [ref=e1402]:
+                        - paragraph [ref=e1404]: Jobless claims fall, but jobseekers are in a tough spot
+                        - generic [ref=e1405]:
+                          - paragraph [ref=e1406]: 5h ago
+                          - paragraph [ref=e1407]: •
+                          - paragraph [ref=e1408]: 9,336 readers
+                    - link "Quitting GLP-1s could harm heart health, add weight back 8h ago • 3,109 readers" [ref=e1410] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/quitting-glp-1s-could-harm-heart-health-add-weight-back-7100180/
+                      - generic [ref=e1412]:
+                        - paragraph [ref=e1414]: Quitting GLP-1s could harm heart health, add weight back
+                        - generic [ref=e1415]:
+                          - paragraph [ref=e1416]: 8h ago
+                          - paragraph [ref=e1417]: •
+                          - paragraph [ref=e1418]: 3,109 readers
+                    - link "Jeff Bezos seeks $100B for AI-driven manufacturing fund 5h ago • 1,113 readers" [ref=e1420] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/jeff-bezos-seeks-100b-for-ai-driven-manufacturing-fund-8553610/
+                      - generic [ref=e1422]:
+                        - paragraph [ref=e1424]: Jeff Bezos seeks $100B for AI-driven manufacturing fund
+                        - generic [ref=e1425]:
+                          - paragraph [ref=e1426]: 5h ago
+                          - paragraph [ref=e1427]: •
+                          - paragraph [ref=e1428]: 1,113 readers
+                    - link "ACA subsidy expiration drives millions to drop coverage 5h ago • 910 readers" [ref=e1430] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/news/story/aca-subsidy-expiration-drives-millions-to-drop-coverage-7086812/
+                      - generic [ref=e1432]:
+                        - paragraph [ref=e1434]: ACA subsidy expiration drives millions to drop coverage
+                        - generic [ref=e1435]:
+                          - paragraph [ref=e1436]: 5h ago
+                          - paragraph [ref=e1437]: •
+                          - paragraph [ref=e1438]: 910 readers
+                    - button "Show more" [ref=e1439] [cursor=pointer]:
+                      - generic [ref=e1440]:
+                        - img [ref=e1441]
+                        - generic [ref=e1443]: Show more
+                - generic [ref=e1445]:
+                  - paragraph [ref=e1446]: Today’s puzzles
+                  - link "Zip - a quick brain teaser Solve in 60s or less!" [ref=e1447] [cursor=pointer]:
+                    - /url: /games/zip/
+                    - generic [ref=e1448]:
+                      - figure [ref=e1449]
+                      - generic [ref=e1450]:
+                        - paragraph [ref=e1451]: Zip - a quick brain teaser
+                        - paragraph [ref=e1452]: Solve in 60s or less!
+                      - img [ref=e1453]
+              - generic [ref=e1456]:
+                - iframe [ref=e1459]:
+                  - link "Advertise on LinkedIn" [ref=f23e3] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?trk=li_FA_global_careers_jobsgtm_jsFA_v1&mcid=6899045044465016833
+                    - img "Advertise on LinkedIn" [ref=f23e4]
+                - generic [ref=e1460]:
+                  - generic [ref=e1461]:
+                    - link "About" [ref=e1462] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=e1463]: About
+                    - link "Accessibility" [ref=e1464] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=e1465]: Accessibility
+                    - link "Help Center" [ref=e1466] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/
+                      - paragraph [ref=e1467]: Help Center
+                    - button "Privacy & Terms" [ref=e1468] [cursor=pointer]:
+                      - generic [ref=e1469]:
+                        - paragraph [ref=e1470]: Privacy & Terms
+                        - img [ref=e1471]
+                    - link "Ad Choices" [ref=e1473] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=e1474]: Ad Choices
+                    - link "Advertising" [ref=e1475] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=e1476]: Advertising
+                    - button "Business Services" [ref=e1477] [cursor=pointer]:
+                      - generic [ref=e1478]:
+                        - paragraph [ref=e1479]: Business Services
+                        - img [ref=e1480]
+                    - link "Get the LinkedIn app" [ref=e1482] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/mobile/
+                      - paragraph [ref=e1483]: Get the LinkedIn app
+                    - link "More" [ref=e1484] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/feed/
+                      - paragraph [ref=e1485]: More
+                  - generic [ref=e1486]:
+                    - img [ref=e1487]
+                    - paragraph [ref=e1489]: LinkedIn Corporation © 2026
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary:
+            - generic [ref=e1491]:
+              - generic [ref=e1493] [cursor=pointer]:
+                - generic [ref=e1494]:
+                  - img "Dung Tran" [ref=e1495]
+                  - generic [ref=e1497]: Trạng thái là đang trực tuyến
+                - button "Bạn đang ở trên lớp phủ tin nhắn. Hãy nhấn enter để mở danh sách các cuộc trò chuyện." [ref=e1498]:
+                  - generic [ref=e1499]:
+                    - generic [ref=e1500]: Nhắn tin
+                    - generic [ref=e1501]: Bạn đang ở trên lớp phủ tin nhắn. Hãy nhấn enter để mở danh sách các cuộc trò chuyện.
+              - generic [ref=e1502]:
+                - button "Mở menu thả xuống của messenger" [ref=e1504] [cursor=pointer]:
+                  - img "Mở menu thả xuống của messenger" [ref=e1505]
+                - button "Soạn tin nhắn" [ref=e1508] [cursor=pointer]:
+                  - img [ref=e1509]
+                  - generic [ref=e1511]: Soạn tin nhắn
+                - button "Bạn đang ở trên lớp phủ tin nhắn. Hãy nhấn enter để mở danh sách các cuộc trò chuyện." [ref=e1512] [cursor=pointer]:
+                  - img [ref=e1513]
+                  - generic [ref=e1515]: Bạn đang ở trên lớp phủ tin nhắn. Hãy nhấn enter để mở danh sách các cuộc trò chuyện.
+          - complementary "Trợ lý được hỗ trợ bởi AI để nhận trợ giúp về sự nghiệp, công việc của bạn, v.v"
+  - iframe [ref=e1516]:
+    - generic [active] [ref=f10e1]:
+      - generic:
+        - region "Thông điệp bánh mì nướng":
+          - heading "Tổng cộng 0 thông báo" [level=2] [ref=f10e3]
+          - alert
+      - region [ref=f10e4]
+      - generic [ref=f10e5]:
+        - generic [ref=f10e7]:
+          - button "Bỏ qua để tìm kiếm" [ref=f10e8] [cursor=pointer]:
+            - generic [ref=f10e9]: Bỏ qua để tìm kiếm
+          - button "Chuyển đến nội dung chính" [ref=f10e10] [cursor=pointer]:
+            - generic [ref=f10e11]: Chuyển đến nội dung chính
+          - button "Phím tắt bàn phím" [ref=f10e12] [cursor=pointer]:
+            - generic [ref=f10e13]: Phím tắt bàn phím
+          - button "Đóng menu chuyển đến" [ref=f10e14] [cursor=pointer]:
+            - img [ref=f10e15]
+            - generic [ref=f10e17]: Đóng menu chuyển đến
+        - banner "Điều hướng toàn cầu" [ref=f10e18]:
+          - generic [ref=f10e19]:
+            - link "LinkedIn" [ref=f10e20] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/?nis=true
+              - img "LinkedIn" [ref=f10e23]:
+                - img [ref=f10e24]
+            - generic [ref=f10e28]:
+              - combobox "Tìm kiếm" [ref=f10e29]
+              - generic:
+                - img
+            - navigation "Điều hướng chính" [ref=f10e30]:
+              - list [ref=f10e31]:
+                - listitem [ref=f10e32]:
+                  - link "Trang chủ" [ref=f10e33] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - img [ref=f10e37]
+                    - generic "Trang chủ" [ref=f10e39]
+                - listitem [ref=f10e40]:
+                  - link "Mạng lưới" [ref=f10e41] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                    - img [ref=f10e45]
+                    - generic "Mạng lưới" [ref=f10e47]
+                - listitem [ref=f10e48]:
+                  - link "Việc làm" [ref=f10e49] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                    - img [ref=f10e53]
+                    - generic "Việc làm" [ref=f10e55]
+                - listitem [ref=f10e56]:
+                  - link "Nhắn tin" [ref=f10e57] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                    - img [ref=f10e61]
+                    - generic "Nhắn tin" [ref=f10e63]
+                - listitem [ref=f10e64]:
+                  - link "Thông báo" [ref=f10e65] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                    - img [ref=f10e69]
+                    - generic "Thông báo" [ref=f10e71]
+                - listitem [ref=f10e72]:
+                  - button "Dung Tran Tôi" [ref=f10e74] [cursor=pointer]:
+                    - img "Dung Tran" [ref=f10e75]
+                    - generic [ref=f10e76]:
+                      - text: Tôi
+                      - img [ref=f10e77]
+                - listitem [ref=f10e79]:
+                  - button "Dành cho doanh nghiệp" [ref=f10e81] [cursor=pointer]:
+                    - img [ref=f10e85]
+                    - generic "Dành cho doanh nghiệp" [ref=f10e87]:
+                      - text: Dành cho doanh nghiệp
+                      - img [ref=f10e88]
+                - listitem [ref=f10e90]:
+                  - link "Dùng thử gói Cao cấp cho 0 ₫" [ref=f10e92] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                    - generic [ref=f10e94]: Dùng thử gói Cao cấp cho 0 ₫
+```

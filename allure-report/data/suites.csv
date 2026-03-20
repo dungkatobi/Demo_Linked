@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","30049","Easy Apply Test - user1@example.com","iphone","Fri Mar 20 14:23:21 ICT 2026","broken","Fri Mar 20 14:23:51 ICT 2026","","tests/easy-apply.spec.ts","",""
+"","1","Easy Apply Test - user1@example.com","msedge","Fri Mar 20 14:22:20 ICT 2026","failed","Fri Mar 20 14:22:20 ICT 2026","","tests/easy-apply.spec.ts","",""
+"","30049","Easy Apply Test - user1@example.com","chromium","Fri Mar 20 14:23:21 ICT 2026","broken","Fri Mar 20 14:23:51 ICT 2026","","tests/easy-apply.spec.ts","",""

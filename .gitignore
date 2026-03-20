@@ -1,0 +1,13 @@
+node_modules/
+playwright-report/
+test-results/
+.env
+.env.*
+*.log
+*.zip
+*.tar.gz
+.DS_Store
+coverage/
+dist/
+build/
+storageState.json
