@@ -39,8 +39,8 @@ playwright.config.ts
 ### 1. Clone Repository
 
 ```
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/dungkatobi/Demo_Linked.git
+cd Demo_Linked
 ```
 
 ### 2. Install Dependencies
